@@ -1,0 +1,8 @@
+first you have to copy the text you want.
+then open your code editor and open this file.
+then create a new file "text.txt"
+then paste the text before you copied
+after that save this file
+Finally run your programme and enjoy it
+make sure to connect internet
+if you have any new idea please send me a pull request
